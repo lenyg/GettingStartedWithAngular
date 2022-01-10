@@ -4,6 +4,7 @@ My First Angular App!
 
 This Repository contains the code I wrote while watching the course Angular: Getting Started by Deborah Kurata
 The information below was contained in the original repository
+
 # Apm
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.0.
